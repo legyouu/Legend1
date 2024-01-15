@@ -20,40 +20,35 @@
       },
       "MONGO_DB_URL": {
         "description": "ممممم",
-        "value": "mongodb+srv://Elkber:Elkber@cluster0.feuljpn.mongodb.net/?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       },
       "OWNER": {
         "description": "ممممم",
         "value": "",
         "required": true
-      }
-    },
-    "OWNER_NAME": {
-        "description": "@𝑳 𝑬 𝑮 𝑬 𝑵 𝑫.❤_",
-        "value": "@𝑳 𝑬 𝑮 𝑬 𝑵 𝑫.❤_",
-        "required": true
-      }
-    },
-    "GROUP": {
-        "description": "L109N",
-        "value": "",
-        "required": true
-      }
-    },
-    "CHANNEL": {
-        "description": "UU_Le2",
-        "value": "",
-        "required": true
-      }
-    },
-    "LOGS": {
+      },
+      "OWNER_NAME": {
         "description": "ممممم",
         "value": "",
         "required": true
-      }
-    },
-    "VIDEO": {
+      },
+      "GROUP": {
+        "description": "ممممم",
+        "value": "",
+        "required": true
+      },
+      "CHANNEL": {
+        "description": "ممممم",
+        "value": "",
+        "required": true
+      },
+      "LOGS": {
+        "description": "ممممم",
+        "value": "",
+        "required": true
+      },
+      "VIDEO": {
         "description": "ممممم",
         "value": "",
         "required": true
