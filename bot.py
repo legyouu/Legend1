@@ -15,7 +15,7 @@ bot = Client(
 async def start_bot():
     print("[INFO]: STARTING BOT CLIENT")
     await bot.start()
-    zombie = "Zo_Mbi_e"
-    await bot.send_message(zombie, "**تم تشغيل ال صانع عزيزي المطور ،**")
+    LEGEND = "L120N"
+    await bot.send_message(LEGEND, "**تم تشغيل ال صانع عزيزي المطور ،**")
     print("[INFO]: تم تشغيل الصانع وارسال رسالة للمطور🕊.")
     await idle()
